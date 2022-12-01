@@ -1,3 +1,6 @@
+.body {
+  justify-content: center;
+}
 .green {
   background-color: rgba(153, 205, 50, 0.636);
   justify-content: center;
