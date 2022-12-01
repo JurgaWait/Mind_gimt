@@ -1,0 +1,31 @@
+.green {
+  background-color: rgba(153, 205, 50, 0.636);
+  justify-content: center;
+  display: flex;
+  border-radius: 30%;
+  padding: 30px;
+  width: 400px;
+}
+
+.yellow {
+  background-color: rgba(255, 255, 0, 0.608);
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  border-radius: 15%;
+}
+.flexbox {
+  display: flexbox;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+  background-color: rgba(255, 130, 57, 0.74);
+  text-align: center;
+  border-radius: 15%;
+}
+
+.filter-red img {
+  padding-top: 30px;
+}
